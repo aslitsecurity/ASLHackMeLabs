@@ -1,0 +1,6 @@
+<Files *.php>
+authType Basic
+authUserFile /var/www/aslitsecurity14747/realistics/2/admin/.htpasswd
+authName "pdf file"
+require valid-user
+</Files>

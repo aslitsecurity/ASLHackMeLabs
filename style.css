@@ -1,0 +1,64 @@
+a:link    {color:white; text-decoration: none;}
+a:visited {color:white; text-decoration: none;}
+a:hover   {text-shadow: 1px 1px 1px black; color:white; text-decoration: none;}
+a:active  {color:white; text-decoration: none;} 
+
+body{
+background-color: #E9CFEC;
+color: black;
+text-align: center;
+font-family: Verdana;
+}
+
+#title{
+font-size: 24px;
+background-color: #4E387E;
+color: white;
+width: 700px;
+border: 1px solid #1F2833;
+margin:auto;
+border-top-left-radius:     10px;
+border-top-right-radius:    10px;
+}
+
+.content{
+border-top-left-radius:     10px;
+border-top-right-radius:    10px;
+margin:auto;
+width: 700px;
+border: 1px solid #1F2833;
+background-color: #9E7BFF;
+color: #1F2833;
+font-size: 14px;
+}
+
+.menu{
+font-size: 15px;
+background-color: #4E387E;
+color: white;
+width: 700px;
+border: 1px solid #1F2833;
+margin:auto;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius:  10px;
+}
+
+#copyright{
+font-size: 13px;
+background-color: #4E387E;
+color: white;
+width: 700px;
+border: 1px solid #1F2833;
+margin:auto;
+border-bottom-left-radius:     10px;
+border-bottom-right-radius:    10px;
+}
+
+input[type] { 
+background-color: white;
+color: #4E387E;
+border: 1px solid #1F2833;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+}
+
