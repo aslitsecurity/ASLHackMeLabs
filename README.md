@@ -2,6 +2,7 @@ ASL_hackme_Labs
 ===============
 
 ASL HackMe Labs is yet another vulnerabile web application to practice various web based attacks. You can practice many web application attacks with these labs. Can be installed in both XAMPP and WAMPP. <br>
+Please feel free to develop, modify, customize and share it. And don't forget to give credits.<br>
 
 To install extract all contents in web root.<br>
 Create a database named "security" and import security.sql file to it.<br>
